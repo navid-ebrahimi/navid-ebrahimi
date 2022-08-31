@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 📫 How to reach me **https://www.linkedin.com/in/navid-ebrahimi/**
+- 📫 How to reach me **navid8020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
