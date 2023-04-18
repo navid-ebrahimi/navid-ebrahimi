@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navid Ebrahimi</h1>
-<h3 align="center">A Computer Engineering Student from Iran</h3>
+<h3 align="center">A Computer Engineering Student</h3>
 
-- 🌱 Interested in **AI, django and new technologies**
+- 🌱 Interested in **Cloud Computing, django and new technologies**
 
 - 📫 How to reach me **navid8020@gmail.com**
 
